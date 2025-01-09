@@ -1,0 +1,13 @@
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\bin\Debug\maks_pr3.exe.config
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\bin\Debug\maks_pr3.exe
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\bin\Debug\maks_pr3.pdb
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.csproj.AssemblyReference.cache
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.Form1.resources
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.Properties.Resources.resources
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.csproj.GenerateResource.cache
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.csproj.CoreCompileInputs.cache
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.exe
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.pdb
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.Form3.resources
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.paint.resources
+C:\Users\я продаю каноплю)\source\repos\maks_pr3\maks_pr3\obj\Debug\maks_pr3.Form4.resources
